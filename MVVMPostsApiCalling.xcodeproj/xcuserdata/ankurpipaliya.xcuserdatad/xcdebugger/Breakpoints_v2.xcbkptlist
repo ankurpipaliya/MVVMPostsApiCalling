@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4B628A6-6767-4C97-B238-4720A998C19F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB206C57-8820-447F-B43C-01E197CE9565"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMPostsApiCalling/ViewControllers/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchComments()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB206C57-8820-447F-B43C-01E197CE9565 - 388c9fdd94872b69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPostsApiCalling.DetailViewController.fetchComments() -&gt; ()"
+                  moduleName = "MVVMPostsApiCalling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankurpipaliya/Downloads/July/MVVMPostsApiCalling/MVVMPostsApiCalling/ViewControllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "EB206C57-8820-447F-B43C-01E197CE9565 - f14bcd39c87f3ca6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;MVVMPostsApiCalling.CommentModel&gt;, Swift.Error&gt;) -&gt; () in MVVMPostsApiCalling.DetailViewController.fetchComments() -&gt; ()"
+                  moduleName = "MVVMPostsApiCalling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankurpipaliya/Downloads/July/MVVMPostsApiCalling/MVVMPostsApiCalling/ViewControllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "214">
+               </Location>
+               <Location
+                  uuid = "EB206C57-8820-447F-B43C-01E197CE9565 - 20ca70e132dda4aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;MVVMPostsApiCalling.CommentModel&gt;, Swift.Error&gt;) -&gt; () in MVVMPostsApiCalling.DetailViewController.fetchComments() -&gt; ()"
+                  moduleName = "MVVMPostsApiCalling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankurpipaliya/Downloads/July/MVVMPostsApiCalling/MVVMPostsApiCalling/ViewControllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
